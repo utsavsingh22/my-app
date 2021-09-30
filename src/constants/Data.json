@@ -1,0 +1,62 @@
+{
+  "Name": "Utsav Singh",
+  "Title": "Computer Science Geek, Django Developer, Everything Python",
+  "ProfilePic": "https://media-exp1.licdn.com/dms/image/C4E03AQGeKpc1o9gc0w/profile-displayphoto-shrink_800_800/0/1610331486364?e=1638403200&v=beta&t=jUzZU3FflBxKM-eOeK3OfbEMyfGI6swgUTeMN7zqxgA",
+  "About": {
+    "Location": "India",
+    "Phone": "+91 7007444829",
+    "Email": "utsavsingh62@gmail.com",
+    "Description": "Utsav Singh is an awesome Python developer..."
+  },
+  "Education": [
+    {
+      "Degree": "Bachelors of Technology",
+      "Branch": "Information Technology",
+      "University": "Bharati Vidyapeeth deemed University",
+      "Description": "Bachelors of Technology in Information Technology from Bharati Vidyapeeth Deemed University and got an O grade so far...",
+      "CGPA": "9.94",
+      "Dates": "Aug 2017 to 2021"
+    }
+  ],
+  "Experience": [
+    {
+      "Role": "Company 2 Role",
+      "Company": "Company 2 Name",
+      "Description": "Company 2 Description",
+      "Dates": "Jan 2020 to Present"
+    },
+    {
+      "Role": "Company 1 Role",
+      "Company": "Company 1 Name",
+      "Description": "Company 1 Description",
+      "Dates": "Jun 2019 to Dec 2019"
+    }
+  ],
+  "Socials": {
+    "LinkedIn": "https://www.linkedin.com/in/utsav-singh-b060761a7/",
+    "Instagram": null,
+    "Twitter": "https://twitter.com/iutsavsingh",
+    "Facebook": null,
+    "GitHub": "https://github.com/utsavsingh69"
+  },
+  "Skills": {
+    "Programming": [
+      "html5",
+      "css3-alt",
+      "js-square",
+      "react",
+      "node-js",
+      "sass",
+      "less",
+      "wordpress",
+      "npm"
+    ],
+    "Workflow": [
+      "Mobile-First, Responsive Design",
+      "Cross Browser Testing &amp; Debugging",
+      "Cross Functional Teams",
+      "Agile Development &amp; Scrum"
+    ]
+  },
+  "Interests": ["Something...", "Some more thing..."]
+}
